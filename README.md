@@ -1,4 +1,4 @@
-👋 Hi, I’m @mcb, Solutions Engineer at @confluentinc, previously @pivotal Software (now owned by VMware), previously Developer and Photographer.
+👋 Hi, I’m @mcb, Solutions Engineer at @confluentincpreviously @pivotal Software, previously Developer and Photographer.
 
 
 
